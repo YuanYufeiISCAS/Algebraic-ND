@@ -1,6 +1,8 @@
 # Anonymous submission: code for "Algebraic Perspectives on Neural Network Distinguishers in Symmetric Cryptanalysis"
 Update time: 
 - 2025-2-19  [Update the verify codes, including Neural Distinguishers in Section 4.1 and Section 4.2]
+- 2025-2-24 [Update the test code for DL variants]
+- The other codes will be updated soonly.
 ## TOC
 ```
 anonymous_submission
@@ -10,7 +12,7 @@ anonymous_submission
   │  ├─Section3 
   │  ├─Section4
   │  └─Section5
-  └─QuickVerify (The code for quickly verify our mainly experiments result)
+  └─QuickVerify (The code for quickly verify our mainly experiments results)
      ├─DLvariant
      └─NeuralD
         └─Section4.1 (The Speck32/64 distinguisher)
